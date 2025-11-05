@@ -41,7 +41,7 @@ To build and provide the simplest, fastest, and most intuitive platform that ena
 
 ## Organizational Values
 
-The core principles and beliefs that guide our behavior, decision-making, and culture - *S P I N*
+The core principles and beliefs that guide our behavior, decision-making, and culture - ***S P I N***
 
 ### Simplicity
 
