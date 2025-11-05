@@ -1,10 +1,10 @@
 <!--
 Sync Impact Report:
-- Version change: Initial → 1.0.0 (new constitution)
-- Added principles: All 5 core principles established (Documentation Excellence, Markdown Standardization, Mandatory Review Process, Best Practices Compliance, Comprehensive Coverage)
-- Added sections: Content Standards, Review Process, Governance  
-- Templates requiring updates: ✅ plan-template.md (updated constitution check), ✅ spec-template.md (documentation-focused requirements), ✅ tasks-template.md (documentation workflow)
-- Follow-up TODOs: None (all placeholders filled, all templates aligned)
+- Version change: 1.0.0 → 1.1.0 (added Material Design 3 principle)
+- Added principles: Material Design 3 Compliance (new principle VI)
+- Modified sections: Core Principles (added VI)
+- Templates requiring updates: ✅ plan-template.md (added MD3 constitution check), ✅ tasks-template.md (added MD3 foundation task and compliance verification), ✅ spec-template.md (no changes needed - design requirements covered by tasks)
+- Follow-up TODOs: None (all templates aligned with design standards)
 -->
 
 # Swiftbird Internet Pvt Ltd Documentation Constitution
@@ -41,6 +41,12 @@ Documentation must cover technical details, organizational information, processe
 
 **Rationale**: Complete and comprehensive documentation prevents knowledge gaps and supports organizational transparency and effectiveness.
 
+### VI. Material Design 3 Compliance
+
+All digital interfaces and documentation presentations MUST adhere to Google's Material Design 3 design system principles, including color tokens, typography scale, spacing system, elevation, and interaction patterns. This ensures consistent, accessible, and modern user experiences across all Swiftbird Internet Pvt Ltd digital properties.
+
+**Rationale**: Standardized design language creates professional, cohesive user experiences while ensuring accessibility compliance and modern interface standards that reflect our commitment to quality and innovation.
+
 ## Content Standards
 
 **Accuracy Requirement**: All information must be factually correct, up-to-date, and verifiable. Sources must be cited where appropriate, and claims must be substantiated.
@@ -63,4 +69,4 @@ This constitution supersedes all other documentation practices and guidelines. A
 
 Amendment of this constitution requires documentation of the change rationale, stakeholder approval, and a migration plan for existing content affected by the changes.
 
-**Version**: 1.0.0 | **Ratified**: 2025-11-05 | **Last Amended**: 2025-11-05
+**Version**: 1.1.0 | **Ratified**: 2025-11-05 | **Last Amended**: 2025-11-05

@@ -41,21 +41,21 @@ To build and provide the simplest, fastest, and most intuitive platform that ena
 
 ## Organizational Values
 
-The core principles and beliefs that guide our behavior, decision-making, and culture.
+The core principles and beliefs that guide our behavior, decision-making, and culture - *S P I N*
 
-### [S]implicity
+### Simplicity
 
 We create straightforward solutions and interactions, making it effortless for merchants to go online
 
-### [P]roactivity
+### Proactivity
 
 We anticipate needs, identify opportunities, and take initiative to create value and solve challenges before they arise
 
-### [I]nnovation
+### Innovation
 
 We constantly seek new and better ways to solve problems, embrace new technologies, and evolve our platform
 
-### [N]imbleness
+### Nimbleness
 
 We are agile, responsive, and quick to adapt to market changes and merchant needs, ensuring rapid execution
 
