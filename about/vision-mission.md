@@ -16,8 +16,6 @@ constitution_compliance: true
 
 ## Executive Summary
 
-*[To be completed - 500 words maximum]*
-
 This section will provide a comprehensive overview of Swiftbird Internet Pvt Ltd's organizational purpose, strategic direction, and the foundational principles that guide our operations. It will synthesize our vision, mission, and values into a clear narrative that demonstrates how we create value for our stakeholders and contribute to our industry.
 
 **Key Highlights:**
@@ -31,39 +29,35 @@ This section will provide a comprehensive overview of Swiftbird Internet Pvt Ltd
 
 ## Vision Statement
 
-*[To be completed - 50 words maximum]*
-
-Our aspirational statement describing the future state we aim to achieve and the positive impact we strive to make in the world.
+A future where every local business has an instant, powerful, and seamless online presence
 
 ---
 
 ## Mission Statement  
 
-*[To be completed - 100 words maximum]*
-
-Our purpose statement defining what we do, who we serve, and how we create value on a day-to-day basis.
+To build and provide the simplest, fastest, and most intuitive platform that enables any merchant to transition from an offline operation to a fully functional online business in a matter of minutes.
 
 ---
 
 ## Organizational Values
 
-*[To be completed - Maximum 7 values with descriptions]*
-
 The core principles and beliefs that guide our behavior, decision-making, and culture.
 
-### Value 1: [Name]
+### [S]implicity
 
-*Description: 1-2 sentences explaining this value and how it manifests in our work.*
+We create straightforward solutions and interactions, making it effortless for merchants to go online
 
-### Value 2: [Name]
+### [P]roactivity
 
-*Description: 1-2 sentences explaining this value and how it manifests in our work.*
+We anticipate needs, identify opportunities, and take initiative to create value and solve challenges before they arise
 
-### Value 3: [Name]
+### [I]nnovation
 
-*Description: 1-2 sentences explaining this value and how it manifests in our work.*
+We constantly seek new and better ways to solve problems, embrace new technologies, and evolve our platform
 
-*[Additional values as defined...]*
+### [N]imbleness
+
+We are agile, responsive, and quick to adapt to market changes and merchant needs, ensuring rapid execution
 
 ---
 

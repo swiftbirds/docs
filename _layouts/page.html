@@ -46,7 +46,13 @@
     <div class="container">
       <div class="site-header__content">
         <div class="site-title">
-          <a href="{{ '/' | relative_url }}" rel="home">{{ site.title | escape }}</a>
+          <a href="{{ '/' | relative_url }}" rel="home" class="site-title__link">
+            <img src="{{ '/assets/images/logo.png' | relative_url }}" 
+                 alt="Swiftbird Internet Pvt Ltd Logo" 
+                 class="site-title__logo"
+                 title="Hover to see the logo fly! ✈️">
+            <span class="site-title__text">{{ site.title | escape }}</span>
+          </a>
         </div>
         
         <!-- Main navigation -->
