@@ -44,32 +44,32 @@ description: "Task list template for feature implementation"
   ============================================================================
 -->
 
-## Phase 1: Setup (Shared Infrastructure)
+## Phase 1: Setup (Documentation Infrastructure)
 
-**Purpose**: Project initialization and basic structure
+**Purpose**: Documentation project initialization and structure
 
-- [ ] T001 Create project structure per implementation plan
-- [ ] T002 Initialize [language] project with [framework] dependencies
-- [ ] T003 [P] Configure linting and formatting tools
+- [ ] T001 Create document structure per implementation plan
+- [ ] T002 Setup Markdown linting and formatting tools
+- [ ] T003 [P] Configure review workflow and approval process
 
 ---
 
-## Phase 2: Foundational (Blocking Prerequisites)
+## Phase 2: Foundational (Content Prerequisites)
 
-**Purpose**: Core infrastructure that MUST be complete before ANY user story can be implemented
+**Purpose**: Core content structure that MUST be complete before user-facing documentation
 
-**⚠️ CRITICAL**: No user story work can begin until this phase is complete
+**⚠️ CRITICAL**: No user story documentation can begin until this phase is complete
 
-Examples of foundational tasks (adjust based on your project):
+Examples of foundational tasks (adjust based on your documentation project):
 
-- [ ] T004 Setup database schema and migrations framework
-- [ ] T005 [P] Implement authentication/authorization framework
-- [ ] T006 [P] Setup API routing and middleware structure
-- [ ] T007 Create base models/entities that all stories depend on
-- [ ] T008 Configure error handling and logging infrastructure
-- [ ] T009 Setup environment configuration management
+- [ ] T004 Create document templates and style guide
+- [ ] T005 [P] Establish information architecture and navigation
+- [ ] T006 [P] Setup cross-reference and linking structure
+- [ ] T007 Create glossary and terminology standards
+- [ ] T008 Configure documentation build and publishing pipeline
+- [ ] T009 Setup content validation and quality checks
 
-**Checkpoint**: Foundation ready - user story implementation can now begin in parallel
+**Checkpoint**: Foundation ready - documentation stories can now be implemented
 
 ---
 
@@ -79,21 +79,22 @@ Examples of foundational tasks (adjust based on your project):
 
 **Independent Test**: [How to verify this story works on its own]
 
-### Tests for User Story 1 (OPTIONAL - only if tests requested) ⚠️
+### Review for User Story 1 (MANDATORY per constitution) ⚠️
 
-> **NOTE: Write these tests FIRST, ensure they FAIL before implementation**
+> **NOTE: Plan review process FIRST, ensure documentation meets quality standards**
 
-- [ ] T010 [P] [US1] Contract test for [endpoint] in tests/contract/test_[name].py
-- [ ] T011 [P] [US1] Integration test for [user journey] in tests/integration/test_[name].py
+- [ ] T010 [P] [US1] Content review for accuracy and completeness
+- [ ] T011 [P] [US1] Technical review for [specific domain] expertise
+- [ ] T012 [P] [US1] Editorial review for clarity and style compliance
 
 ### Implementation for User Story 1
 
-- [ ] T012 [P] [US1] Create [Entity1] model in src/models/[entity1].py
-- [ ] T013 [P] [US1] Create [Entity2] model in src/models/[entity2].py
-- [ ] T014 [US1] Implement [Service] in src/services/[service].py (depends on T012, T013)
-- [ ] T015 [US1] Implement [endpoint/feature] in src/[location]/[file].py
-- [ ] T016 [US1] Add validation and error handling
-- [ ] T017 [US1] Add logging for user story 1 operations
+- [ ] T013 [P] [US1] Research and gather content for [document section]
+- [ ] T014 [P] [US1] Draft content outline and structure
+- [ ] T015 [US1] Write initial content draft in docs/[path]/[document].md
+- [ ] T016 [US1] Add examples, code samples, and illustrations
+- [ ] T017 [US1] Create cross-references and internal links
+- [ ] T018 [US1] Apply formatting standards and style guide
 
 **Checkpoint**: At this point, User Story 1 should be fully functional and testable independently
 
@@ -105,17 +106,18 @@ Examples of foundational tasks (adjust based on your project):
 
 **Independent Test**: [How to verify this story works on its own]
 
-### Tests for User Story 2 (OPTIONAL - only if tests requested) ⚠️
+### Review for User Story 2 (MANDATORY per constitution) ⚠️
 
-- [ ] T018 [P] [US2] Contract test for [endpoint] in tests/contract/test_[name].py
-- [ ] T019 [P] [US2] Integration test for [user journey] in tests/integration/test_[name].py
+- [ ] T019 [P] [US2] Content review for accuracy and completeness
+- [ ] T020 [P] [US2] Technical review for [specific domain] expertise
+- [ ] T021 [P] [US2] Editorial review for clarity and style compliance
 
 ### Implementation for User Story 2
 
-- [ ] T020 [P] [US2] Create [Entity] model in src/models/[entity].py
-- [ ] T021 [US2] Implement [Service] in src/services/[service].py
-- [ ] T022 [US2] Implement [endpoint/feature] in src/[location]/[file].py
-- [ ] T023 [US2] Integrate with User Story 1 components (if needed)
+- [ ] T022 [P] [US2] Research and gather content for [document section]
+- [ ] T023 [US2] Draft content outline and structure  
+- [ ] T024 [US2] Write content draft in docs/[path]/[document].md
+- [ ] T025 [US2] Integrate with User Story 1 documentation (cross-references, consistency)
 
 **Checkpoint**: At this point, User Stories 1 AND 2 should both work independently
 

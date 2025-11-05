@@ -1,50 +1,66 @@
-# [PROJECT_NAME] Constitution
-<!-- Example: Spec Constitution, TaskFlow Constitution, etc. -->
+<!--
+Sync Impact Report:
+- Version change: Initial → 1.0.0 (new constitution)
+- Added principles: All 5 core principles established (Documentation Excellence, Markdown Standardization, Mandatory Review Process, Best Practices Compliance, Comprehensive Coverage)
+- Added sections: Content Standards, Review Process, Governance  
+- Templates requiring updates: ✅ plan-template.md (updated constitution check), ✅ spec-template.md (documentation-focused requirements), ✅ tasks-template.md (documentation workflow)
+- Follow-up TODOs: None (all placeholders filled, all templates aligned)
+-->
+
+# Swiftbird Documentation Constitution
 
 ## Core Principles
 
-### [PRINCIPLE_1_NAME]
-<!-- Example: I. Library-First -->
-[PRINCIPLE_1_DESCRIPTION]
-<!-- Example: Every feature starts as a standalone library; Libraries must be self-contained, independently testable, documented; Clear purpose required - no organizational-only libraries -->
+### I. Documentation Excellence (NON-NEGOTIABLE)
 
-### [PRINCIPLE_2_NAME]
-<!-- Example: II. CLI Interface -->
-[PRINCIPLE_2_DESCRIPTION]
-<!-- Example: Every library exposes functionality via CLI; Text in/out protocol: stdin/args → stdout, errors → stderr; Support JSON + human-readable formats -->
+All documents MUST be well-written, clearly articulated, and professionally formatted. Every document must have a clear purpose, target audience, and deliver value to Swiftbird stakeholders. Poor quality, unclear, or poorly structured documents will be rejected regardless of technical merit.
 
-### [PRINCIPLE_3_NAME]
-<!-- Example: III. Test-First (NON-NEGOTIABLE) -->
-[PRINCIPLE_3_DESCRIPTION]
-<!-- Example: TDD mandatory: Tests written → User approved → Tests fail → Then implement; Red-Green-Refactor cycle strictly enforced -->
+**Rationale**: As the central knowledge repository for Swiftbird organization, documentation quality directly impacts organizational effectiveness and professional image.
 
-### [PRINCIPLE_4_NAME]
-<!-- Example: IV. Integration Testing -->
-[PRINCIPLE_4_DESCRIPTION]
-<!-- Example: Focus areas requiring integration tests: New library contract tests, Contract changes, Inter-service communication, Shared schemas -->
+### II. Markdown Standardization
 
-### [PRINCIPLE_5_NAME]
-<!-- Example: V. Observability, VI. Versioning & Breaking Changes, VII. Simplicity -->
-[PRINCIPLE_5_DESCRIPTION]
-<!-- Example: Text I/O ensures debuggability; Structured logging required; Or: MAJOR.MINOR.BUILD format; Or: Start simple, YAGNI principles -->
+All documentation MUST be written in Markdown format following consistent formatting standards. Documents must use proper heading hierarchy, consistent code block formatting, appropriate linking, and standardized front matter where applicable.
 
-## [SECTION_2_NAME]
-<!-- Example: Additional Constraints, Security Requirements, Performance Standards, etc. -->
+**Rationale**: Standardized formatting ensures consistency, maintainability, and compatibility across different platforms and tools.
 
-[SECTION_2_CONTENT]
-<!-- Example: Technology stack requirements, compliance standards, deployment policies, etc. -->
+### III. Mandatory Review Process
 
-## [SECTION_3_NAME]
-<!-- Example: Development Workflow, Review Process, Quality Gates, etc. -->
+No document may be published or made available without prior review and explicit approval. All changes, additions, and updates must go through the established review workflow before being merged to the main branch.
 
-[SECTION_3_CONTENT]
-<!-- Example: Code review requirements, testing gates, deployment approval process, etc. -->
+**Rationale**: Quality control and accuracy verification are essential for maintaining credibility and preventing misinformation in organizational documentation.
+
+### IV. Best Practices Compliance
+
+All documentation must follow established best practices for technical writing, information architecture, and content organization. This includes proper structure, clear navigation, accurate information, and appropriate use of examples and references.
+
+**Rationale**: Consistent application of best practices ensures high-quality user experience and effective knowledge transfer.
+
+### V. Comprehensive Coverage
+
+Documentation must cover technical details, organizational information, processes, and any other knowledge relevant to Swiftbird operations. Each document must be complete within its scope and provide sufficient context for its intended audience.
+
+**Rationale**: Complete and comprehensive documentation prevents knowledge gaps and supports organizational transparency and effectiveness.
+
+## Content Standards
+
+**Accuracy Requirement**: All information must be factually correct, up-to-date, and verifiable. Sources must be cited where appropriate, and claims must be substantiated.
+
+**Clarity Requirement**: Content must be written in clear, professional language appropriate for the target audience. Technical jargon must be explained or linked to definitions.
+
+**Completeness Requirement**: Each document must be self-contained or properly linked to related information. Missing critical information or broken internal references are unacceptable.
+
+## Review Process
+
+**Review Authority**: All documents require approval from designated reviewers before publication. Reviewers are responsible for verifying accuracy, clarity, completeness, and adherence to these principles.
+
+**Quality Gates**: Documents must pass checks for grammar, formatting, technical accuracy, and organizational alignment before approval.
+
+**Version Control**: All changes must be tracked through version control with clear commit messages and appropriate branching strategies.
 
 ## Governance
-<!-- Example: Constitution supersedes all other practices; Amendments require documentation, approval, migration plan -->
 
-[GOVERNANCE_RULES]
-<!-- Example: All PRs/reviews must verify compliance; Complexity must be justified; Use [GUIDANCE_FILE] for runtime development guidance -->
+This constitution supersedes all other documentation practices and guidelines. All document creation, modification, and review processes must verify compliance with these principles. Non-compliance must be justified with explicit rationale and approved by reviewers.
 
-**Version**: [CONSTITUTION_VERSION] | **Ratified**: [RATIFICATION_DATE] | **Last Amended**: [LAST_AMENDED_DATE]
-<!-- Example: Version: 2.1.1 | Ratified: 2025-06-13 | Last Amended: 2025-07-16 -->
+Amendment of this constitution requires documentation of the change rationale, stakeholder approval, and a migration plan for existing content affected by the changes.
+
+**Version**: 1.0.0 | **Ratified**: 2025-11-05 | **Last Amended**: 2025-11-05

@@ -79,21 +79,21 @@
 
 <!--
   ACTION REQUIRED: The content in this section represents placeholders.
-  Fill them out with the right functional requirements.
+  Fill them out with the right documentation requirements.
 -->
 
-### Functional Requirements
+### Documentation Requirements
 
-- **FR-001**: System MUST [specific capability, e.g., "allow users to create accounts"]
-- **FR-002**: System MUST [specific capability, e.g., "validate email addresses"]  
-- **FR-003**: Users MUST be able to [key interaction, e.g., "reset their password"]
-- **FR-004**: System MUST [data requirement, e.g., "persist user preferences"]
-- **FR-005**: System MUST [behavior, e.g., "log all security events"]
+- **DR-001**: Document MUST [specific content requirement, e.g., "provide complete API reference"]
+- **DR-002**: Document MUST [quality requirement, e.g., "include working code examples"]  
+- **DR-003**: Content MUST [accessibility requirement, e.g., "be understandable by target audience"]
+- **DR-004**: Document MUST [structure requirement, e.g., "follow established template format"]
+- **DR-005**: Document MUST [accuracy requirement, e.g., "be technically accurate and current"]
 
 *Example of marking unclear requirements:*
 
-- **FR-006**: System MUST authenticate users via [NEEDS CLARIFICATION: auth method not specified - email/password, SSO, OAuth?]
-- **FR-007**: System MUST retain user data for [NEEDS CLARIFICATION: retention period not specified]
+- **DR-006**: Document MUST cover [NEEDS CLARIFICATION: scope not specified - basic usage, advanced features, troubleshooting?]
+- **DR-007**: Document MUST be updated [NEEDS CLARIFICATION: frequency not specified - on each release, monthly, quarterly?]
 
 ### Key Entities *(include if feature involves data)*
 
@@ -103,13 +103,13 @@
 ## Success Criteria *(mandatory)*
 
 <!--
-  ACTION REQUIRED: Define measurable success criteria.
-  These must be technology-agnostic and measurable.
+  ACTION REQUIRED: Define measurable success criteria for documentation.
+  These must be user-focused and measurable.
 -->
 
 ### Measurable Outcomes
 
-- **SC-001**: [Measurable metric, e.g., "Users can complete account creation in under 2 minutes"]
-- **SC-002**: [Measurable metric, e.g., "System handles 1000 concurrent users without degradation"]
-- **SC-003**: [User satisfaction metric, e.g., "90% of users successfully complete primary task on first attempt"]
-- **SC-004**: [Business metric, e.g., "Reduce support tickets related to [X] by 50%"]
+- **SC-001**: [User success metric, e.g., "90% of readers can complete documented task without additional help"]
+- **SC-002**: [Clarity metric, e.g., "Document passes readability review on first submission"]
+- **SC-003**: [Completeness metric, e.g., "All required sections covered with sufficient detail"]
+- **SC-004**: [Business metric, e.g., "Reduce support requests about [topic] by 75%"]

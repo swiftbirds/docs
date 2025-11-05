@@ -31,7 +31,11 @@
 
 *GATE: Must pass before Phase 0 research. Re-check after Phase 1 design.*
 
-[Gates determined based on constitution file]
+- [ ] **Documentation Excellence**: Clear purpose, target audience, and value proposition defined
+- [ ] **Markdown Standardization**: Proper formatting standards and structure planned
+- [ ] **Review Process**: Review workflow and approval gates identified
+- [ ] **Best Practices**: Technical writing and information architecture principles applied
+- [ ] **Comprehensive Coverage**: Complete scope and context requirements defined
 
 ## Project Structure
 
