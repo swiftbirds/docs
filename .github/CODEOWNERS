@@ -1,0 +1,21 @@
+# Code Owners and Review Process
+# Constitutional Compliance: Mandatory Review Process
+
+# Vision and Mission Documentation
+/about/vision-mission.md @swiftbird/leadership @swiftbird/docs-team
+/about/validation-checklist.md @swiftbird/docs-team
+
+# Documentation Infrastructure  
+/_config.yml @swiftbird/admin @swiftbird/docs-team
+/_layouts/ @swiftbird/docs-team
+/assets/ @swiftbird/docs-team
+
+# Constitutional and Governance
+/.specify/ @swiftbird/leadership @swiftbird/admin
+/specs/ @swiftbird/docs-team
+
+# Deployment and CI/CD
+/.github/workflows/ @swiftbird/admin @swiftbird/docs-team
+
+# Default reviewers for all documentation changes
+* @swiftbird/docs-team
