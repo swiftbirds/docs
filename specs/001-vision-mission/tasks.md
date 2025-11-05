@@ -1,4 +1,4 @@
-# Tasks: Swiftbird Vision and Mission Document
+# Tasks: Swiftbird Internet Pvt Ltd Vision and Mission Document
 
 **Input**: Design documents from `/specs/001-vision-mission/`
 **Prerequisites**: plan.md (required), spec.md (required for user stories), research.md, data-model.md, contracts/
@@ -53,7 +53,7 @@ Documentation project structure:
 
 **Goal**: Create core vision and mission content that new employees can understand and use for organizational alignment
 
-**Independent Test**: New employee can read the document and successfully answer questions about Swiftbird's purpose, goals, and values in onboarding assessment
+**Independent Test**: New employee can read the document and successfully answer questions about Swiftbird Internet Pvt Ltd's purpose, goals, and values in onboarding assessment
 
 ### Review for User Story 1 (MANDATORY per constitution) ⚠️
 
@@ -81,7 +81,7 @@ Documentation project structure:
 
 **Goal**: Extend document to serve external stakeholders with strategic context and professional presentation
 
-**Independent Test**: External stakeholders can understand Swiftbird's business focus and identify alignment opportunities
+**Independent Test**: External stakeholders can understand Swiftbird Internet Pvt Ltd's business focus and identify alignment opportunities
 
 ### Review for User Story 2 (MANDATORY per constitution) ⚠️
 

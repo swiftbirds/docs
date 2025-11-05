@@ -7,15 +7,15 @@ Sync Impact Report:
 - Follow-up TODOs: None (all placeholders filled, all templates aligned)
 -->
 
-# Swiftbird Documentation Constitution
+# Swiftbird Internet Pvt Ltd Documentation Constitution
 
 ## Core Principles
 
 ### I. Documentation Excellence (NON-NEGOTIABLE)
 
-All documents MUST be well-written, clearly articulated, and professionally formatted. Every document must have a clear purpose, target audience, and deliver value to Swiftbird stakeholders. Poor quality, unclear, or poorly structured documents will be rejected regardless of technical merit.
+All documents MUST be well-written, clearly articulated, and professionally formatted. Every document must have a clear purpose, target audience, and deliver value to Swiftbird Internet Pvt Ltd stakeholders. Poor quality, unclear, or poorly structured documents will be rejected regardless of technical merit.
 
-**Rationale**: As the central knowledge repository for Swiftbird organization, documentation quality directly impacts organizational effectiveness and professional image.
+**Rationale**: As the central knowledge repository for Swiftbird Internet Pvt Ltd organization, documentation quality directly impacts organizational effectiveness and professional image.
 
 ### II. Markdown Standardization
 
@@ -37,7 +37,7 @@ All documentation must follow established best practices for technical writing, 
 
 ### V. Comprehensive Coverage
 
-Documentation must cover technical details, organizational information, processes, and any other knowledge relevant to Swiftbird operations. Each document must be complete within its scope and provide sufficient context for its intended audience.
+Documentation must cover technical details, organizational information, processes, and any other knowledge relevant to Swiftbird Internet Pvt Ltd operations. Each document must be complete within its scope and provide sufficient context for its intended audience.
 
 **Rationale**: Complete and comprehensive documentation prevents knowledge gaps and supports organizational transparency and effectiveness.
 

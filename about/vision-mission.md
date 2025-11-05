@@ -1,11 +1,11 @@
 ---
 layout: page
 title: "Vision and Mission"
-description: "Our organizational purpose, direction, and values that guide everything we do at Swiftbird"
+description: "Our organizational purpose, direction, and values that guide everything we do at Swiftbird Internet Pvt Ltd"
 permalink: /about/vision-mission/
 last_modified_date: 2025-11-05
 next_review: 2026-11-05
-author: "Swiftbird Leadership Team"
+author: "Swiftbird Internet Pvt Ltd Leadership Team"
 version: "1.0"
 constitution_compliance: true
 ---
@@ -18,7 +18,7 @@ constitution_compliance: true
 
 *[To be completed - 500 words maximum]*
 
-This section will provide a comprehensive overview of Swiftbird's organizational purpose, strategic direction, and the foundational principles that guide our operations. It will synthesize our vision, mission, and values into a clear narrative that demonstrates how we create value for our stakeholders and contribute to our industry.
+This section will provide a comprehensive overview of Swiftbird Internet Pvt Ltd's organizational purpose, strategic direction, and the foundational principles that guide our operations. It will synthesize our vision, mission, and values into a clear narrative that demonstrates how we create value for our stakeholders and contribute to our industry.
 
 **Key Highlights:**
 
@@ -109,4 +109,4 @@ This section will provide the broader context for our vision and mission, includ
 - **Next Review**: {{ page.next_review | date: "%B %d, %Y" }}
 - **Constitutional Compliance**: {{ page.constitution_compliance }}
 
-*This document follows Swiftbird's Constitutional requirements for Documentation Excellence, Markdown Standardization, and Mandatory Review Process.*
+*This document follows Swiftbird Internet Pvt Ltd's Constitutional requirements for Documentation Excellence, Markdown Standardization, and Mandatory Review Process.*

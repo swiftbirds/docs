@@ -1,12 +1,12 @@
-# Swiftbird Documentation Site Configuration
+# Swiftbird Internet Pvt Ltd Documentation Site Configuration
 
-title: "Swiftbird"
-description: "Official documentation and organizational resources for Swiftbird"
+title: "Swiftbird Internet Pvt Ltd"
+description: "Official documentation and organizational resources for Swiftbird Internet Pvt Ltd"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://swiftbird.github.io" # the base hostname & protocol for your site
 
 # Site metadata
-author: "Swiftbird Organization"
+author: "Swiftbird Internet Pvt Ltd"
 email: "docs@swiftbird.org"
 twitter_username: "swiftbird"
 github_username: "swiftbird"
