@@ -1,0 +1,73 @@
+# Swiftbird Internet Pvt Ltd Documentation Site Configuration
+
+title: "Swiftbird Internet Pvt Ltd"
+description: "Official documentation and organizational resources for Swiftbird Internet Pvt Ltd"
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://swiftbird.github.io" # the base hostname & protocol for your site
+
+# Site metadata
+author: "Swiftbird Internet Pvt Ltd"
+email: "docs@swiftbird.org"
+twitter_username: "swiftbird"
+github_username: "swiftbird"
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# Collections
+collections:
+  docs:
+    output: true
+    permalink: /:collection/:name/
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  - scope:
+      path: ""
+      type: "docs"
+    values:
+      layout: "page"
+
+# Site navigation
+navigation:
+  - title: "About"
+    url: "/about/"
+  - title: "Vision & Mission"
+    url: "/about/vision-mission/"
+
+# Constitutional compliance
+constitution_version: "1.0.0"
+documentation_standards: "CommonMark"
+review_process: "mandatory"
+
+# SEO settings
+lang: "en"
+timezone: "America/New_York"
+
+# Exclude from processing
+exclude:
+  - .specify/
+  - specs/
+  - Gemfile*
+  - node_modules
+  - vendor
+  - .sass-cache
+  - .jekyll-cache
+  - gemfiles
+  - README.md
