@@ -2,7 +2,7 @@
 
 title: "Swiftbird Internet Pvt Ltd"
 description: "Official documentation and organizational resources for Swiftbird Internet Pvt Ltd"
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/docs" # the subpath of your site, e.g. /blog
 url: "https://swiftbird.github.io" # the base hostname & protocol for your site
 
 # Site metadata

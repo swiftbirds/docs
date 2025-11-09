@@ -8,12 +8,12 @@ Welcome to the official documentation site for Swiftbird Internet Pvt Ltd, provi
 
 ## Quick Navigation
 
-- **[Vision & Mission](/about/vision-mission/)** - Our organizational purpose, direction, and values
-- **[About](/about/)** - Learn more about Swiftbird Internet Pvt Ltd
+- **[Vision & Mission]({{ '/about/vision-mission/' | relative_url }})** - Our organizational purpose, direction, and values
+- **[About]({{ '/about/' | relative_url }})** - Learn more about Swiftbird Internet Pvt Ltd
 
 ## Getting Started
 
-New to Swiftbird Internet Pvt Ltd? Start with our [Vision & Mission](/about/vision-mission/) document to understand our organizational purpose and values.
+New to Swiftbird Internet Pvt Ltd? Start with our [Vision & Mission]({{ '/about/vision-mission/' | relative_url }}) document to understand our organizational purpose and values.
 
 ---
 

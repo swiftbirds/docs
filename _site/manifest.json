@@ -2,33 +2,33 @@
   "name": "Swiftbird Internet Pvt Ltd Documentation",
   "short_name": "Swiftbird",
   "description": "Official documentation and organizational resources for Swiftbird Internet Pvt Ltd",
-  "start_url": "/",
+  "start_url": "/docs/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#2563eb",
   "icons": [
     {
-      "src": "/assets/icons/favicon-16x16.png",
+      "src": "/docs/assets/icons/favicon-16x16.png",
       "sizes": "16x16",
       "type": "image/png"
     },
     {
-      "src": "/assets/icons/favicon-32x32.png",
+      "src": "/docs/assets/icons/favicon-32x32.png",
       "sizes": "32x32", 
       "type": "image/png"
     },
     {
-      "src": "/assets/icons/apple-touch-icon.png",
+      "src": "/docs/assets/icons/apple-touch-icon.png",
       "sizes": "180x180",
       "type": "image/png"
     },
     {
-      "src": "/assets/icons/icon-192x192.png",
+      "src": "/docs/assets/icons/icon-192x192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/assets/icons/icon-512x512.png",
+      "src": "/docs/assets/icons/icon-512x512.png",
       "sizes": "512x512",
       "type": "image/png"
     }
